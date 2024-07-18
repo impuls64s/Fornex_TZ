@@ -38,7 +38,12 @@
     python manage.py migrate
     ```
 
-8. Запустите сервер разработки:
+8. Создайте суперпользователя:
+    ```sh
+    python manage.py createsuperuser
+    ```
+
+9. Запустите сервер разработки:
     ```sh
     python manage.py runserver
     ```
