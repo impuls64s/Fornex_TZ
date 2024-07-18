@@ -56,6 +56,7 @@
 - **Request Params**: None
 - **Permissions**: Only Staff
 - **Description**: List of all users
+- **Non-mandatory params** : is_verified, username
 
 ---
 
