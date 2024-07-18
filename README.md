@@ -107,7 +107,7 @@
     "is_superuser": false,
     "username": "imp64",
     "first_name": "Oleg",
-    "last_name": "Middle",
+    "last_name": "Dev",
     "email": "impuls_64@mail.ru",
     "is_staff": false,
     "is_active": true,
