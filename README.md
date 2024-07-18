@@ -97,3 +97,26 @@
 - **Request Params**: ...
 - **Permissions**: Only Staff
 - **Description**: Delete user
+
+### Account model example
+```json
+{
+    "id": 2,
+    "password": "pbkdf2_sha256$720000$5kb07YyyQMwdmsCG7dDNvu$h1JsZSR7aMg1NbZdzyAY/Mo0kGpAkjVZVI9MH5cogto=",
+    "last_login": null,
+    "is_superuser": false,
+    "username": "imp64",
+    "first_name": "Oleg",
+    "last_name": "Middle",
+    "email": "impuls_64@mail.ru",
+    "is_staff": false,
+    "is_active": true,
+    "date_joined": "2024-07-17T22:23:51.457152Z",
+    "country": "",
+    "city": "",
+    "balance": 0.0,
+    "is_verified": false,
+    "groups": [],
+    "user_permissions": []
+}
+```
